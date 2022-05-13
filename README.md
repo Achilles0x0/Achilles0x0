@@ -11,7 +11,7 @@
 
 ---
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=achilles0x01&show_icons=true&theme=dark&locale=en&layout=compact" alt="achilles0x01" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=achilles0x01&show_icons=true&theme=dark&locale=en&layout=compact" alt="achilles0x01" />
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=achilles0x01&theme=dark&locale=en" alt="achilles0x01" />
 
