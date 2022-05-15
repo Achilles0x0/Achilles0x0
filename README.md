@@ -11,14 +11,14 @@
 
 ---
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=achilles0x01&show_icons=true&theme=dark&locale=en&layout=compact" alt="achilles0x01" width="280" height="140" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=achilles0x01&show_icons=true&no-bg=true&locale=en&layout=compact" alt="achilles0x01" width="280" height="140" />
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=achilles0x01&theme=dark&locale=en" alt="achilles0x01" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=achilles0x01&locale=en&no-bg=true" alt="achilles0x01" />
 
 
 
 ```mermaid
-%%{init: { 'loglevel': 'debug', 'theme': 'dark' } }%%
+%%{init: { 'loglevel': 'debug', 'theme': 'default' } }%%
 gitGraph
   commit
   branch Python
